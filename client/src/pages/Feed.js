@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import { Flex } from "antd-mobile";
 
 import { FilterBox } from "../components/Filter/FilterBox";
 import { Posts } from "../components/Posts/Posts";
