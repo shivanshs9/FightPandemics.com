@@ -4,3 +4,6 @@ export const TROPICAL_BLUE = "#B8C2F8";
 export const SELAGO = "#F3F4FE";
 export const ORANGE_RED = "#FF5656";
 export const MINT_GREEN = "#22D9A2";
+export const LIGHT_GRAY = "#D7D7D7";
+export const MEDIUM_GRAY = "#C5C5C5";
+export const DARK_GRAY = "#939393";
