@@ -1,0 +1,16 @@
+// override ant design styles
+.post-box {
+  .am-card,
+  .am-card-body {
+    &:before {
+      content: none !important;
+    }
+  }
+
+  .am-card-header-content {
+    align-items: normal;
+    img {
+      border-radius: 50%;
+    }
+  }
+}
